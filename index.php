@@ -14,6 +14,10 @@
     <p>di github buat repo sesuai dengan nama folder git local nya</p>
     <p>di file Read jangan di isi atau di edit, ini penting kerena link copy remote akan di tulis di dalam nya secara auto</p>
     <p> pilih keterangan no. 2 yang ada pada readme "…or push an existing repository from the command line"</p>
+    <p> copy keterangan tersebut di git local tuliskan $git push -u origin master</p>
+    <p> selesai dan update </p>
+
+
 
 </body>
 
